@@ -1,0 +1,9 @@
+{
+	"name": "ADFStudyClass",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1fbe2ad3-56af-42f5-99bf-41bb0d962153",
+		"tenantId": "01c93049-e48b-4a7e-8d98-29d2e241fdf3"
+	}
+}
